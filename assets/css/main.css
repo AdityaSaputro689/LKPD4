@@ -2841,7 +2841,7 @@ table.order-details tbody td {
 
 .footer-s{
   background-image: url(../img/background/footer.gif);
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
 }
 
